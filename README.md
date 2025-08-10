@@ -11,6 +11,7 @@ I am passionate about cybersecurity and thrive on solving complex challenges thr
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Building a SOC and Honeynet in Azure]()**
 
 <hr/>
 
