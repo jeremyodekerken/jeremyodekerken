@@ -6,7 +6,7 @@ I am passionate about cybersecurity and thrive on solving complex challenges thr
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/jeremyodekerken/vulnerabilty-management-program/blob/main/README.md)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Vulnerability Remediations Scripts (PowerShell and BASH)](https://github.com/jeremyodekerken/vulnerability-remediation-scripts/tree/main/remediation-pack%202)**
 
 ## 🚨 Threat Hunting and Security Operations
 
